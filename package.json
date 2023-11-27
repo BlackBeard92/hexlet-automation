@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-automation",
+  "version": "1.0.0",
+  "description": "Automation tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackBeard92/hexlet-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BlackBeard92/hexlet-automation/issues"
+  },
+  "homepage": "https://github.com/BlackBeard92/hexlet-automation#readme"
+}
